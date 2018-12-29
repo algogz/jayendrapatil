@@ -5,19 +5,15 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
 <h2>AWS Whitepapers</h2>
 
 <ul>
-    <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-services-overview.md">AWS Services Overview</a></li>
-    <li><a href="#">Architecting for the Cloud – Best Practices</a></li>
+    <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-services-overview.md">AWS Services Overview</a></li>    
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-storage-options-whitepaper.md">AWS Storage Options</a>
         <ul>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-storage-options-whitepaper-s3-glacier.md">AWS Storage Options – S3 &amp; Glacier</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-storage-options-whitepaper-ebs-instance-store.md">AWS Storage Options – EBS &amp; Instance Store</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-storage-options-rds-dynamodb.md">AWS Storage Options – RDS, DynamoDB &amp; Database on EC2</a></li>
-            <li><a href="#">AWS Storage Options – SQS &amp; Redshift</a></li>
-            <li><a href="#">AWS Storage Options – CloudFront &amp; ElastiCache</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-storage-options-whitepaper-storage-gateway-importexport.md">AWS Storage Options – Storage Gateway &amp; Import/Export</a></li>
         </ul>
     </li>
-    <li><a href="#">Jefferson Frank AWS Salary Survey</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-high-availability-fault-tolerance-architecture-certification.md">AWS High Availability &amp; Fault Tolerance Architecture</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-securing-data-at-rest.md">AWS Encrypting Data at Rest</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/whitepaper/aws-security-whitepaper-overview.md">AWS Security</a></li>
@@ -39,8 +35,7 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
         </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-virtual-private-cloud-vpc.md">AWS Virtual Private Cloud</a>
-        <ul>
-            <li><a href="#">VPC Endpoint</a></li>
+        <ul>            
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-vpc-peering.md">VPC Peering</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-vpc-vpn-cloudhub.md">VPC VPN CloudHub Connections</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-vpc-nat.md">VPC NAT</a></li>
@@ -63,7 +58,6 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
                         <ul>
                             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ebs-volume-types.md">EBS Volume Types</a></li>
                             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ebs-snapshot.md">EBS Snapshot</a></li>
-                            <li><a href="#">EBS Performance</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -72,9 +66,7 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ec2-enhanced-networking.md">AWS EC2 Network – Enhanced Networking</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ec2-network.md">AWS EC2 Network</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ec2-security.md">AWS EC2 Security</a></li>
-            <li><a href="#">AWS EC2 Best Practices</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ec2-monitoring.md">AWS EC2 Monitoring</a></li>
-            <li><a href="#">AWS EC2 Troubleshooting</a></li>
         </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-simple-storage-service-s3-overview.md">AWS Simple Storage Service – S3</a>
@@ -107,8 +99,6 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
         <ul>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-elb-monitoring.md">AWS ELB Monitoring</a></li>
             <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-elb-application-load-balancer.md">AWS Application Load Balancer</a></li>
-            <li><a href="#">AWS Network Load Balancer</a></li>
-            <li><a href="#">AWS Classic Load Balancer vs Application Load Balancer</a></li>
         </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-billing-cost-management-certification.md">AWS Billing and Cost Management</a>
@@ -138,9 +128,6 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
         </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-auto-scaling.md">AWS Auto Scaling</a>
-        <ul>
-            <li><a href="#">AWS Autoscaling Troubleshooting</a></li>
-        </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-swf.md">AWS SWF – Simple Workflow Overview</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-root-access-enabled-services.md">AWS Services with Root Privileges</a></li>
@@ -165,11 +152,9 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-automated-backups.md">AWS Automated Backups</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-elastic-transcoder.md">AWS Elastic Transcoder</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-cloud-migration-services.md">AWS Cloud Migration Services</a></li>
-    <li><a href="#">AWS Support Tiers</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-key-management-service-kms.md">AWS Key Management Service – KMS</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-data-pipeline.md">AWS Data Pipeline</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-glacier.md">AWS Glacier</a></li>
-    <li>AWS EC2 EBS Monitoring</li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-elasticsearch.md">AWS Elasticsearch</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-importexport.md">AWS Import/Export</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-simple-email-service-ses.md">AWS Simple Email Service – SES</a></li>
@@ -178,9 +163,6 @@ Yet the author mixed the question/answer/comments in the same text paragraph. So
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-workspace.md">AWS WorkSpace</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-config.md">AWS Config</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-lambda.md">AWS Lambda</a>
-        <ul>
-            <li><a href="#">AWS Lambda Event Sources</a></li>
-        </ul>
     </li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-ec2-container-service-ecs.md">AWS ECS</a></li>
     <li><a href="https://github.com/algogz/jayendrapatil/blob/master/md/service/aws-api-gateway.md">AWS API Gateway</a></li>
